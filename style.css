@@ -129,7 +129,7 @@ body{
 
 
 #info-box-full img{
-      width : 100%;
+      width : 50%;
 }
 
 
@@ -137,10 +137,9 @@ body{
 #info-box-full h3{
       text-align : center;
 }
-
 img.info-box-weather-icon{
       height : 30px;
-      width  : 30px !important;
+      width  : 30px;
       margin : 10px;
       float  :left; 
  }
